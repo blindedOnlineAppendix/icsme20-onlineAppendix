@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h3 align="center" style="margin-bottom: 10px;"><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h3>
+  
+        <p style="margin-bottom: 7px">{{ site.description | default: site.github.project_tagline }}</p>
+
+        <h3 style="margin-bottom: 7px">Table of contents</h3>
+        <ol class="toc">
+          <li><a href="#mc-problem">The Mountain Car Problem</a>
+            <ol>
+              <li><a href="#mc-Branavg-model">Branavg model</a></li>
+              <li><a href="#mc-Harshitandro-model">Harshitandro model</a></li>
+              <li><a href="#mc-Kxl4126-model">Kxl4126 model</a></li>
+              <li><a href="#mc-MLnewlifer-model">MLnewlifer model</a></li>
+              <li><a href="#mc-PylSER-model">PylSER model</a></li>
+            </ol>
+          </li>
+          <li><a href="#mcc-problem">The Mountain Car Problem with continuous reward</a>
+            <ol>
+              <li><a href="#mcc-Branavg-model">Branavg model</a></li>
+              <li><a href="#mcc-Harshitandro-model">Harshitandro model</a></li>
+              <li><a href="#mcc-Kxl4126-model">Kxl4126 model</a></li>
+              <li><a href="#mcc-MLnewlifer-model">MLnewlifer model</a></li>
+              <li><a href="#mcc-PylSER-model">PylSER model</a></li>
+            </ol>
+          </li>
+          <li><a href="#cp-problem">The Cartpole Problem</a>
+            <ol>
+              <li><a href="#cp-CFOnHeart-model">CFOnHeart model</a></li>
+              <li><a href="#cp-Gsurma-model">Gsurma model</a></li>
+              <li><a href="#cp-Harshitandro-model">Harshitandro model</a></li>
+              <li><a href="#cp-Junliangliu-model">Junliangliu model</a></li>
+              <li><a href="#cp-Z0m6ie-model">Z0m6ie model</a></li>
+            </ol>
+          </li>
+          <li><a href="#smb-problem">The Super Mario Bros. Game</a>
+            <ol>
+              <li><a href="#smb-1-model">SMB1 model</a></li>
+              <li><a href="#smb-2-model">SMB2 model</a></li>
+              <li><a href="#smb-3-model">SMB3 model</a></li>
+              <li><a href="#smb-4-model">SMB4 model</a></li>
+            </ol>
+          </li>
+        </ol>
+      </header>
+      <section>
+
+      {{ content }}
+
+      </section>
+    </div>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  </body>
+</html>

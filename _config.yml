@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+show_downloads: ["true"]
+title: Should we use Neuron Coverage as a Test Adequacy Criterion? The Deep Reinforcement Learning Case
+tsdllogo: /assets/imgs/horizontalLightBrackgrounds.png
+google_analytics: UA-144589961-1

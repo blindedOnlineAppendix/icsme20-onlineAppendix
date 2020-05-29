@@ -1,0 +1,43 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header ol li {
+    border-right: 0px solid #e0e0e0;
+    float: none;
+    width: auto;
+    height: auto;
+}
+
+header ol { 
+    counter-reset: item
+}
+
+header li {
+    display: block;
+}
+
+header li:before { 
+    content: counters(item, ".") " "; 
+    counter-increment: item;
+    padding-right: 2%;
+}
+
+section p {
+    text-align: justify;
+}
+
+footer p {
+    margin: 0;
+}
+
+body {
+    padding-top: 20px; 
+}
+
+ol {
+    padding-left: 10px;
+    font-size: 13px;
+    margin: 0 0 5px 5px;
+}
