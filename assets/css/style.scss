@@ -34,6 +34,7 @@ footer p {
 
 body {
     padding-top: 20px; 
+    counter-reset: figures;
 }
 
 .wrapper {
@@ -52,4 +53,12 @@ ol {
     padding-left: 10px;
     font-size: 13px;
     margin: 0 0 5px 5px;
+}
+
+.image {
+	counter-increment: figures;
+}
+
+.image figcaption:before {
+	content: 'Figure ' counter(figures) '. ';
 }
