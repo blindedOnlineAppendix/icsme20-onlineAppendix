@@ -6,7 +6,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/mountain-car-v0/branavg/mc-branavg.png" alt="Network architecture of branavg mode">
+      <img src="assets/imgs/mountain-car-v0/branavg/mc-branavg.png" alt="Network architecture of branavg model">
       <figcaption>Network architecture of branavg model</figcaption>
     </figure>
 </div>
@@ -50,7 +50,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/mountain-car-v0/harshitandro/mc-harshitandro.png" alt="Network architecture of harshitandro mode">
+      <img src="assets/imgs/mountain-car-v0/harshitandro/mc-harshitandro.png" alt="Network architecture of harshitandro model">
       <figcaption>Network architecture of harshitandro model</figcaption>
     </figure>
 </div>
@@ -95,7 +95,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/mountain-car-v0/kxl4126/mc-kxl4126.png" alt="Network architecture of kxl4126 mode">
+      <img src="assets/imgs/mountain-car-v0/kxl4126/mc-kxl4126.png" alt="Network architecture of kxl4126 model">
       <figcaption>Network architecture of kxl4126 model</figcaption>
     </figure>
 </div>
@@ -140,7 +140,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/mountain-car-v0/MLnewlifer/mc-MLnewlifer.png" alt="Network architecture of MLnewlifer mode">
+      <img src="assets/imgs/mountain-car-v0/MLnewlifer/mc-MLnewlifer.png" alt="Network architecture of MLnewlifer model">
       <figcaption>Network architecture of MLnewlifer model</figcaption>
     </figure>
 </div>
@@ -185,7 +185,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/mountain-car-v0/pylSER/mc-pylSER.png" alt="Network architecture of pylSER mode">
+      <img src="assets/imgs/mountain-car-v0/pylSER/mc-pylSER.png" alt="Network architecture of pylSER model">
       <figcaption>Network architecture of pylSER model</figcaption>
     </figure>
 </div>
@@ -421,7 +421,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/cartpole-v0/CFOnHeart/cp-CFOnHeart.png" alt="Network architecture of CFOnHeart mode">
+      <img src="assets/imgs/cartpole-v0/CFOnHeart/cp-CFOnHeart.png" alt="Network architecture of CFOnHeart model">
       <figcaption>Network architecture of CFOnHeart model</figcaption>
     </figure>
 </div>
@@ -465,7 +465,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/cartpole-v0/gsurma/cp-gsurma.png" alt="Network architecture of gsurma mode">
+      <img src="assets/imgs/cartpole-v0/gsurma/cp-gsurma.png" alt="Network architecture of gsurma model">
       <figcaption>Network architecture of gsurma model</figcaption>
     </figure>
 </div>
@@ -509,7 +509,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/cartpole-v0/harshitandro/cp-harshitandro.png" alt="Network architecture of harshitandro mode">
+      <img src="assets/imgs/cartpole-v0/harshitandro/cp-harshitandro.png" alt="Network architecture of harshitandro model">
       <figcaption>Network architecture of harshitandro model</figcaption>
     </figure>
 </div>
@@ -553,7 +553,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/cartpole-v0/junliangliu/cp-junliangliu.png" alt="Network architecture of junliangliu mode">
+      <img src="assets/imgs/cartpole-v0/junliangliu/cp-junliangliu.png" alt="Network architecture of junliangliu model">
       <figcaption>Network architecture of junliangliu model</figcaption>
     </figure>
 </div>
@@ -597,7 +597,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/cartpole-v0/Z0m6ie/cp-Z0m6ie.png" alt="Network architecture of Z0m6ie mode">
+      <img src="assets/imgs/cartpole-v0/Z0m6ie/cp-Z0m6ie.png" alt="Network architecture of Z0m6ie model">
       <figcaption>Network architecture of Z0m6ie model</figcaption>
     </figure>
 </div>
@@ -639,11 +639,11 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <h1 id="smb-problem">The Super Mario Bros. Game</h1>
 
-<h2 id="mc-SMB1-model">SMB1 model</h2>
+<h2 id="smb-1-model">SMB1 model</h2>
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/smb/smb1/smb1.png" alt="Network architecture of smb1 mode">
+      <img src="assets/imgs/smb/smb1/smb1.png" alt="Network architecture of smb1 model">
       <figcaption>Network architecture of smb1 model</figcaption>
     </figure>
 </div>
@@ -683,11 +683,11 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
     </figure>
 </div>
 
-<h2 id="mc-SMB2-model">SMB2 model</h2>
+<h2 id="smb-2-model">SMB2 model</h2>
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/smb/smb2/smb2.png" alt="Network architecture of smb2 mode">
+      <img src="assets/imgs/smb/smb2/smb2.png" alt="Network architecture of smb2 model">
       <figcaption>Network architecture of smb2 model</figcaption>
     </figure>
 </div>
@@ -727,11 +727,11 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
     </figure>
 </div>
 
-<h2 id="mc-SMB3-model">SMB3 model</h2>
+<h2 id="smb-3-model">SMB3 model</h2>
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/smb/smb3/smb3.png" alt="Network architecture of smb3 mode">
+      <img src="assets/imgs/smb/smb3/smb3.png" alt="Network architecture of smb3 model">
       <figcaption>Network architecture of smb3 model</figcaption>
     </figure>
 </div>
@@ -771,11 +771,11 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
     </figure>
 </div>
 
-<h2 id="mc-SMB4-model">SMB4 model</h2>
+<h2 id="smb-4-model">SMB4 model</h2>
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/smb/smb4/smb4.png" alt="Network architecture of smb4 mode">
+      <img src="assets/imgs/smb/smb4/smb4.png" alt="Network architecture of smb4 model">
       <figcaption>Network architecture of smb4 model</figcaption>
     </figure>
 </div>
