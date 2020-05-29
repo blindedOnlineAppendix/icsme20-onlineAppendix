@@ -643,7 +643,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/smb/smb1/cp-smb1.png" alt="Network architecture of smb1 mode">
+      <img src="assets/imgs/smb/smb1/smb1.png" alt="Network architecture of smb1 mode">
       <figcaption>Network architecture of smb1 model</figcaption>
     </figure>
 </div>
@@ -687,7 +687,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/smb/smb2/cp-smb2.png" alt="Network architecture of smb2 mode">
+      <img src="assets/imgs/smb/smb2/smb2.png" alt="Network architecture of smb2 mode">
       <figcaption>Network architecture of smb2 model</figcaption>
     </figure>
 </div>
@@ -731,7 +731,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/smb/smb3/cp-smb3.png" alt="Network architecture of smb3 mode">
+      <img src="assets/imgs/smb/smb3/smb3.png" alt="Network architecture of smb3 mode">
       <figcaption>Network architecture of smb3 model</figcaption>
     </figure>
 </div>
@@ -775,7 +775,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/smb/smb4/cp-smb4.png" alt="Network architecture of smb4 mode">
+      <img src="assets/imgs/smb/smb4/smb4.png" alt="Network architecture of smb4 mode">
       <figcaption>Network architecture of smb4 model</figcaption>
     </figure>
 </div>

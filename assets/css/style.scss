@@ -60,5 +60,6 @@ ol {
 }
 
 .image figcaption:before {
+    font-weight: bold;
 	content: 'Figure ' counter(figures) '. ';
 }
