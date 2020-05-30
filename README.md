@@ -4,6 +4,8 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <h2 id="mc-Branavg-model">Branavg model</h2>
 
+> The model is available [here](https://github.com/branavg/Deep-Q-learning).
+
 <div style="text-align:center">
     <figure class="image">
       <img src="assets/imgs/mountain-car-v0/branavg/mc-branavg.png" alt="Network architecture of branavg model">
@@ -47,6 +49,8 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 </div>
 
 <h2 id="mc-Harshitandro-model">Harshitandro model</h2>
+
+> The model is available [here](https://github.com/harshitandro/Deep-Q-Network).
 
 <div style="text-align:center">
     <figure class="image">
@@ -93,6 +97,8 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <h2 id="mc-Kxl4126-model">Kxl4126 model</h2>
 
+> The model is available [here](https://github.com/kxl4126/MountainCarDQN).
+
 <div style="text-align:center">
     <figure class="image">
       <img src="assets/imgs/mountain-car-v0/kxl4126/mc-kxl4126.png" alt="Network architecture of kxl4126 model">
@@ -138,6 +144,9 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <h2 id="mc-MLnewlifer-model">MLnewlifer model</h2>
 
+> The model is available [here](https://github.com/MLnewlifer/MountainCar-DQN).
+
+
 <div style="text-align:center">
     <figure class="image">
       <img src="assets/imgs/mountain-car-v0/MLnewlifer/mc-MLnewlifer.png" alt="Network architecture of MLnewlifer model">
@@ -182,6 +191,9 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 
 <h2 id="mc-PylSER-model">PylSER model</h2>
+
+> The model is available [here](https://github.com/pylSER/Deep-Reinforcement-learning-Mountain-Car).
+
 
 <div style="text-align:center">
     <figure class="image">
@@ -419,6 +431,9 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <h2 id="cp-CFOnHeart-model">CFOnHeart model</h2>
 
+> The model is available [here](https://github.com/CFOnHeart/ReforceLearning).
+
+
 <div style="text-align:center">
     <figure class="image">
       <img src="assets/imgs/cartpole-v0/CFOnHeart/cp-CFOnHeart.png" alt="Network architecture of CFOnHeart model">
@@ -462,6 +477,9 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 </div>
 
 <h2 id="cp-Gsurma-model">Gsurma model</h2>
+
+> The model is available [here](https://github.com/gsurma/cartpole).
+
 
 <div style="text-align:center">
     <figure class="image">
@@ -507,6 +525,9 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <h2 id="cp-Harshitandro-model">Harshitandro model</h2>
 
+> The model is available [here](https://github.com/harshitandro/Deep-Q-Network).
+
+
 <div style="text-align:center">
     <figure class="image">
       <img src="assets/imgs/cartpole-v0/harshitandro/cp-harshitandro.png" alt="Network architecture of harshitandro model">
@@ -551,6 +572,9 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <h2 id="cp-Junliangliu-model">Junliangliu model</h2>
 
+> The model is available [here](https://github.com/junliangliu/DQN).
+
+
 <div style="text-align:center">
     <figure class="image">
       <img src="assets/imgs/cartpole-v0/junliangliu/cp-junliangliu.png" alt="Network architecture of junliangliu model">
@@ -594,6 +618,9 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 </div>
 
 <h2 id="cp-Z0m6ie-model">Z0m6ie model</h2>
+
+> The model is available [here](https://github.com/Z0m6ie/CartPole_DDQN).
+
 
 <div style="text-align:center">
     <figure class="image">
