@@ -624,7 +624,7 @@ Recent increase in use of RL, and specifically DRL, in real-world scenarios is p
 
 <div style="text-align:center">
     <figure class="image">
-      <img src="assets/imgs/cartpole-v0/Z0m6ie/cp-Z0m6ie.png" alt="Network architecture of Z0m6ie model">
+      <img src="assets/imgs/cartpole-v0/Z0m6ie/cp-z0m6ie.png" alt="Network architecture of Z0m6ie model">
       <figcaption>Network architecture of Z0m6ie model</figcaption>
     </figure>
 </div>
